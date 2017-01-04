@@ -1,0 +1,5 @@
+Django==1.10.4
+jieba==0.38
+line_bot_sdk==1.0.2
+lxml==3.5.0
+requests==2.9.1

@@ -1,0 +1,25 @@
+<root>
+
+	<item name="tainan" trans="臺南市"></item>
+	<item name="taipei" trans="臺北市"></item>
+	<item name="xinbei" trans="新北市"></item>
+	<item name="taoyuan" trans="桃園市"></item>
+	<item name="taizhong" trans="臺中市"></item>
+	<item name="tainan" trans="高雄市"></item>
+	<item name="Jilong" name2="Keelung" trans="基隆市"></item>
+	<item name="xinzhu_county" trans="新竹縣"></item>
+	<item name="xinzhu" trans="新竹市"></item>
+	<item name="miaoli_county" trans="苗栗縣"></item>
+	<item name="zhanghua_county" trans="彰化縣"></item>
+	<item name="nantou_county" trans="南投縣"></item>
+	<item name="yunlin_county" trans="雲林縣"></item>
+	<item name="jiayi_county" trans="嘉義縣"></item>
+	<item name="jiayi" trans="嘉義市"></item>
+	<item name="pingdong_county" trans="屏東縣"></item>
+	<item name="yilan_county" trans="宜蘭縣"></item>
+	<item name="hualian_county" trans="花蓮縣"></item>
+	<item name="taidong_district" trans="臺東縣"></item>
+	<item name="penghu_county" trans="澎湖縣"></item>
+	<item name="jinmen" name2="Kinmen" trans="金門縣"></item>
+	<item name="lianjiang_county" trans="連江縣"></item>
+</root>
